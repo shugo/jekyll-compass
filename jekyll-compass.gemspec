@@ -7,10 +7,10 @@ Gem::Specification.new do |s|
     Jekyll website. Compass is an extension library for the CSS preprocessor Sass.
   EOF
   s.license     = 'MIT'
-  s.authors     = ["Matthew Scharley"]
-  s.email       = 'matt.scharley@gmail.com'
+  s.authors     = ["Matthew Scharley", "Jean-Denis Vauguet"]
+  s.email       = 'jd@vauguet.fr'
   s.files       = [*Dir["lib/**/*.rb"], "README.md", "LICENSE"]
-  s.homepage    = 'https://github.com/mscharley/jekyll-compass'
+  s.homepage    = 'https://github.com/chikamichi/jekyll-compass'
 
   s.add_runtime_dependency 'compass', '~> 1.0'
   s.add_runtime_dependency 'jekyll', '~> 3.0'
