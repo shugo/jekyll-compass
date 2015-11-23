@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'jekyll-compass'
-  s.version     = '2.0.0'
+  s.version     = '2.0.1'
   s.summary     = "Jekyll generator plugin to build Compass projects during site build"
   s.description = <<-EOF
     A Jekyll plugin enabling the Compass framework.
